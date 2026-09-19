@@ -85,6 +85,7 @@ def subquadratic_multiply(x, y):
 def time_multiply(x, y, f):
     start = time.time()
     # multiply two numbers x, y using function f
+    f(x, y)
     return (time.time() - start)*1000
     
 def compare_multiply():
