@@ -1,7 +1,7 @@
 # CMPS 2200 Assignment 02
 ## Answers
 
-**Name:**_________________________
+**Name:** Lily Goldman
 
 
 Place all written answers from `assignment-02.md` here for easier grading.
